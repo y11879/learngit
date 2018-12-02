@@ -1,0 +1,19 @@
+﻿注：这里的端口用Websphere默认的HTTP传输协议端口9080.  下面是网上收集的Websphere Application Server
+ 端口信息： 对于 WebSphere® Application Server：  
+收集 WebSphere Application Server 的下列信息。要了解更多信息，请参阅 WAS 信息中心： 
+http://publib.boulder.ibm.com/infocenter/wasinfo/v6r0/index.jsp 
+管理控制台端口，缺省值：9060   
+管理控制台安全端口，缺省值：9043   
+HTTP 传输端口，缺省值：9080   
+HTTPS 传输端口，缺省值：9443   
+引导端口，缺省值：2809  
+SOAP 连接器端口，缺省值：8880  
+SAS SSL ServerAuth 端口，缺省值：9401  
+CSIV2 ServerAuth 侦听器端口，缺省值：9403   
+CSIV2 MultiAuth 侦听器端口，缺省值：9402   
+ORB 侦听器端口，缺省值：9100  
+高可用性管理器通信端口，缺省值：9353   
+服务集成端口，缺省值：7276   
+服务集成安全端口，缺省值：7286  
+服务集成 MQ 互操作性端口，缺省值：5558   
+服务集成 MQ 互操作性安全端口，缺省值：5578 
